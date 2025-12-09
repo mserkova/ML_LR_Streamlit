@@ -1,3 +1,5 @@
 ML HW 1.2 Streamlit 
 
-https://smastr.streamlit.app/
+Приложение: https://smastr.streamlit.app/
+
+Выводы: final.md
